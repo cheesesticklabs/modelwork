@@ -1,0 +1,17 @@
+AI MODEL FIELD TEST — Cheesestick Labs
+
+Extract all files, then open index.html.
+To host: upload the CONTENTS of this folder, including assets, to your static host.
+
+Students briefly explore two of five Hugging Face demos, choose one,
+identify its model, run three tests, and write an evidence-based review.
+No passwords. No partner task. English/Spanish. Light/dark mode.
+
+DOWNLOAD ONLY. No Google Sheets submission or automatic transmission.
+Students download their response PDF/text and attach it to your class assignment.
+They attach three saved evidence files separately. The response PDF does not
+contain their screenshots, images, or audio—only the references they typed.
+
+The external demos require internet access and may have queues or sign-in limits.
+Students can switch demos if access prevents testing. Local browser autosave
+does not replace downloading before leaving the device.
